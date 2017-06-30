@@ -1,2 +1,2 @@
 # cloudless
-Application to make and track questions belonging to teams and projects
+Application to make and track questions regarding to teams and projects
